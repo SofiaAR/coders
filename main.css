@@ -1,0 +1,80 @@
+/*fuente  nuesttras coders 'Indie Flower'*/
+.contendor{
+  width: 660px;
+  overflow: auto;
+  position: relative;
+  padding: 0;
+  margin: 5% 0 0 0;
+
+}
+hr{
+  border:3px solid black;
+  width: 10%;
+  position: relative;
+  right:45%;
+}
+h1{
+  font-family: "indie Flower";
+}
+.mia{
+  margin:0 5% 5% 0;
+  float: left;
+  /*outline: 1px solid green;*/
+  border-radius: 3%;
+  box-shadow: 10px 5px 5px black;
+}
+.ana{
+  margin:0 0 5% 0;
+  float: left;
+  /*outline: 1px solid green;*/
+  border-radius: 3%;
+  box-shadow: 10px 5px 5px black;
+}
+.maca{
+  margin:0 30% 5% 5%;
+  float: left;
+  /*outline: 1px solid green;*/
+  border-radius: 3%;
+  box-shadow: 10px 5px 5px black;
+}
+.tylor{
+  margin:0 5% 5% 0 ;
+  float: left;
+  /*outline: 1px solid green;*/
+  border-radius: 3%;
+  box-shadow: 10px 5px 5px black;
+}
+.Mala{
+  margin:0 5% 0 0;
+  float: left;
+  /*outline: 1px solid green;*/
+  border-radius: 3%;
+  box-shadow: 10px 5px 5px black;
+}
+.lisaume{
+  margin:0px;
+  float: left;
+  /*outline: 1px solid green;*/
+  border-radius: 3%;
+  box-shadow: 10px 5px 5px black;
+}
+
+.name1 ,.name2 ,.name3{
+  position: absolute;
+  font-size: 85%;
+ 	color: #fff;
+  font-family: 'Fascinate Inline';
+  margin: 13X% 0% 0% 5%;
+
+  /*box-shadow: 10px 5px 5px black;*/
+
+}
+.name4, .name5 ,.name6{
+  position: absolute;
+  font-size: 85%;
+ 	color: #fff;
+  font-family: 'Fascinate Inline';
+  margin: 13% 0% 0% 5%;
+
+/*  box-shadow: 10px 5px 5px white;*/
+}
